@@ -3,6 +3,8 @@
 - https://en.wikipedia.org/wiki/Security_Account_Manager
 
 # guide:
+http://www.chntpw.com
+
 works:
 - https://opensource.com/article/18/3/how-reset-windows-password-linux
 
