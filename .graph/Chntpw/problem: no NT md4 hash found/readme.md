@@ -1,3 +1,5 @@
+# Problem
+> "no NT md4 hash found."
 https://www.google.com/search?q=chntpw+no+NT+md4+hash+found
 
 # Solution
